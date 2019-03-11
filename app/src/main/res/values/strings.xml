@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application Prototype</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Map</string>
+    <string name="title_notifications">Fun Facts</string>
+    <string name="background">Main Background</string>
+    <string name="main_logo">Main Logo</string>
+    <string name="main_title">Main Title</string>
+    <string name="name_prompt">Name Prompt</string>
+    <string name="go_btn">Go Button</string>
+    <string name="title_txt">Pikas in the Park!</string>
+    <string name="name_prompt_txt">What is your name?</string>
+    <string name="go_btn_txt">Go!</string>
+    <string name="textview">TextView</string>
+    <string name="it_s_time_to_find_some_pikas_this_scavenger_hunt_will_give_you_clues_as_to_where_to_find_the_hidden_pikas_around_town_once_you_find_the_pika_click_the_button_when_you_find_all_of_the_pikas_you_can_go_to_the_visitor_center_to_claim_your_prize_click_the_go_button_to_start_your_adventure">It\'s time to find some pikas! This scavenger hunt will give you clues as to where to find the hidden Pikas around town. Once you find the Pika, click the button! When you find all of the Pikas, you can go to the Visitor Center to claim your prize! Click the go button to start your adventure!</string>
+    <string name="go">Go!</string>
+</resources>
